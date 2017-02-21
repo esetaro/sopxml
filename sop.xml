@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sop>
-    <intro> Welcome to the standard operating procedure for taking courses in the Summer and Winter at Virginia Tech. This guide will aid you in completing many tasks such as registering for classes, paying tuition, contacting a professor, and accessing Canvas. </intro>   
+    <intro> Welcome to the Standard Operating Procedure for taking courses in the Summer and Winter at Virginia Tech. This guide will aid you in completing many tasks such as registering for classes, paying tuition, contacting a professor, and accessing Canvas. </intro>   
     <sessions>
    <session>
        <url>summer.html</url>
        <sessiontitle>Summer Sessions at Virginia Tech</sessiontitle>
-       <welcome>This is summer!</welcome>
+       <welcome>Welcome to Summer Session at Virginia Tech</welcome>
        
        <tasks>
          <task>
-            <tasktitle></tasktitle>
-             <staging></staging>
+            <tasktitle>How to Complete Course Request</tasktitle>
+             <staging>Students request courses that they would like to take before the start of the session using course request on HokieSpa. If courses that are requested are not open, students may use Drop/Add to manually add courses to their schedules.</staging>
              <ingredients>
                  <ingredient>
                      <item> a computer</item>
@@ -28,7 +28,38 @@
              </steps>
              <summary> </summary>
          </task>  
+           
+           <task>
+               <tasktitle>How to Drop/Add Courses to your Schedule</tasktitle>
+               <staging> Drop/Add allows students to manually add courses to their schedules by searching for the course, then adding it to their schedule. 
+               </staging>
+               <ingredients>
+                   <ingredient>
+                       <item> a computer</item>
+                   </ingredient>
+                   <ingredient>
+                       <item> a phone</item>
+                   </ingredient>
+                   
+               </ingredients>
+               <steps> 
+                   <step>
+                       <action>do this</action>
+                       <note>text </note>
+                   </step>
+               </steps>
+               <summary> </summary>
+           </task>  
        </tasks>
+       
+       
+       
+       
+       
+       
+       
+       
+       
        
    </session>   
   <session>
