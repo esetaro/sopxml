@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sop>
+    <intro> Welcome to the standard operating procedure for taking courses in the Summer and Winter at Virginia Tech. This guide will aid you in completing many tasks such as registering for classes, paying tuition, contacting a professor, and accessing Canvas. </intro>   
+    <sessions>
+   <session>
+       <url>summer.html</url>
+       <sessiontitle>Summer Sessions at Virginia Tech</sessiontitle>
+       <welcome>This is summer!</welcome>
+       
+       <tasks>
+         <task>
+            <tasktitle></tasktitle>
+             <staging></staging>
+             <ingredients>
+                 <ingredient>
+                     <item> a computer</item>
+                 </ingredient>
+                 <ingredient>
+                     <item> a phone</item>
+                 </ingredient>
+                 
+             </ingredients>
+             <steps> 
+                 <step>
+                     <action>do this</action>
+                     <note>text </note>
+                 </step>
+             </steps>
+             <summary> </summary>
+         </task>  
+       </tasks>
+       
+   </session>   
+  <session>
+          <url>winter.html</url>
+          <sessiontitle>winter sessions at virginia tech</sessiontitle>
+          <welcome>
+              
+          </welcome>
+          
+          <tasks>
+              <task>
+                  <tasktitle></tasktitle>
+                  <staging></staging>
+                  <ingredients>
+                      <ingredient>
+                          <item> a computer</item>
+                      </ingredient>
+                      <ingredient>
+                          <item> a phone</item>
+                      </ingredient>
+                      
+                  </ingredients>
+                  <steps> 
+                      <step>
+                          <action>do this</action>
+                          <note>text </note>
+                      </step>
+                  </steps>
+                  <summary> </summary>
+              </task>   
+          </tasks>
+          
+      </session>   
+      
+      
+      
+  </sessions> 
+    
+    
+ 
+    
+</sop>
+    
+    
+    
+    
+
