@@ -13,16 +13,21 @@
              <staging>Students request courses that they would like to take before the start of the session using course request on HokieSpa. If courses that are requested are not open, students may use Drop/Add to manually add courses to their schedules.</staging>
              <ingredients>
                  <ingredient>
-                     <item> a computer</item>
+                     <item> A Computer</item>
                  </ingredient>
                  <ingredient>
-                     <item> a phone</item>
+                     <item> Your Virginia Tech PID</item>
                  </ingredient>
                  
              </ingredients>
              <steps> 
                  <step>
-                     <action>do this</action>
+                     <action>Log into your Hokie SPA account, using your VT PID.</action>
+                     <note>text </note>
+                 </step>
+                 <step>
+                     <action>Select Hokie SPA from the menu.
+                     </action>
                      <note>text </note>
                  </step>
              </steps>
